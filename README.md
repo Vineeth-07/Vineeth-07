@@ -2,6 +2,16 @@
 <h3 align="center">Full Stack Developer | Scalable Systems | Backend Focused</h3>
 
 <p align="center">
+  <a href="https://vineethdharna.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Focused" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vineeth-07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -53,6 +63,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Focused" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Vineeth-07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineeth-07&theme=tokyonight&hide_border=true" height="170"/>
 </p>
