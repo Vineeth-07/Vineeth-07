@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vineeth</h1>
-<h3 align="center">Full Stack Developer | Scalable Systems | Backend Focused</h3>
+<h1 align="center">Hi 👋, I'm Vineeth Dharna</h1>
+<h3 align="center">Java Full Stack Developer | Cloud-Native Applications | Backend & Microservices Focused</h3>
 
 <p align="center">
   <a href="https://vineethdharna.dev" target="_blank">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+AWS;Backend+Engineer+%7C+Distributed+Systems;Cloud-Native+Application+Developer" />
 </p>
 
 <p align="center">
@@ -19,10 +19,11 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer focused on building scalable web applications  
-- ⚡ Strong in backend architecture, APIs, and performance optimization  
-- 🌐 Interested in system design and real-time applications  
-- 🧠 Always learning and building production-grade systems  
+- 💻 Java Full Stack Developer with experience building scalable enterprise applications  
+- ⚡ Strong expertise in backend engineering, distributed systems, and cloud-native architectures  
+- 🌐 Passionate about Microservices, REST APIs, event-driven systems, and system design  
+- ☁️ Experienced with AWS, Docker, Kubernetes, CI/CD, and production-grade deployments  
+- 🧠 Continuously learning and building modern full-stack applications with scalable architectures  
 
 ---
 
@@ -30,32 +31,32 @@
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</p>
+
+### ⚙️ Backend & Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind" />
 </p>
 
-### ⚙️ Backend
+### 🗄️ Databases & Messaging
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-### 🗄️ Databases
+### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,git" />
 </p>
 
-### ☁️ DevOps & Tools
+### 🧪 Testing & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git" />
-</p>
-
-### 🧪 Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://skillicons.dev/icons?i=jest,selenium,postman" />
 </p>
 
 ---
@@ -63,9 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Engineer;System+Design+Focused" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Vineeth-07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineeth-07&theme=tokyonight&hide_border=true" height="170"/>
 </p>
@@ -74,10 +72,12 @@
 
 ## 🔥 What I Focus On
 
-- Scalable backend systems  
-- Clean architecture & system design  
-- Performance optimization  
-- Real-time applications  
+- Scalable Java & Spring Boot Microservices  
+- Cloud-Native Application Development  
+- Distributed Systems & Event-Driven Architectures  
+- Backend Performance Optimization  
+- CI/CD Automation & DevOps Practices  
+- Clean Architecture & System Design  
 
 ---
 
